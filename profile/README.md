@@ -1,1 +1,1 @@
-Hi dear, we are SciTe Editor Development Community!
+# Hi dear, we are SciTe Editor Development Community!
